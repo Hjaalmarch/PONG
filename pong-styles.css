@@ -11,7 +11,6 @@ body {
 #game {
   margin: auto;
   border: 5px solid black;
-  left: 0;
   position: absolute;
   background-image: url("liminalnight.gif");
   background-size: cover;
