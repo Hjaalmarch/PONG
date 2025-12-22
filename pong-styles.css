@@ -11,10 +11,9 @@ body {
 #game {
   margin: auto;
   border: 5px solid black;
-  position: absolute;
+  position: relative;
   background-image: url("liminalnight.gif");
   background-size: cover;
-  align-content: center;
 }
 
 #left-paddle {
